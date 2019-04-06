@@ -1,0 +1,4559 @@
+{
+  "id": "5c9a5bfd7e90ec74e380fe83",
+  "name": "White Phoenix Expirmental",
+  "desc": "",
+  "descData": null,
+  "closed": false,
+  "idOrganization": null,
+  "limits": {
+    "attachments": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 36000,
+        "warnAt": 32400
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "boards": {
+      "totalMembersPerBoard": {
+        "status": "ok",
+        "disableAt": 1600,
+        "warnAt": 1440
+      }
+    },
+    "cards": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "openPerList": {
+        "status": "ok",
+        "disableAt": 5000,
+        "warnAt": 4500
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "totalPerList": {
+        "status": "ok",
+        "disableAt": 1000000,
+        "warnAt": 900000
+      }
+    },
+    "checklists": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 2000000,
+        "warnAt": 1800000
+      },
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      }
+    },
+    "checkItems": {
+      "perChecklist": {
+        "status": "ok",
+        "disableAt": 200,
+        "warnAt": 180
+      }
+    },
+    "customFields": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 50,
+        "warnAt": 45
+      }
+    },
+    "labels": {
+      "perBoard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      }
+    },
+    "lists": {
+      "openPerBoard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 450
+      },
+      "totalPerBoard": {
+        "status": "ok",
+        "disableAt": 3000,
+        "warnAt": 2700
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 63
+      }
+    },
+    "reactions": {
+      "perAction": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 900
+      },
+      "uniquePerAction": {
+        "status": "ok",
+        "disableAt": 17,
+        "warnAt": 16
+      }
+    }
+  },
+  "pinned": false,
+  "starred": false,
+  "url": "https://trello.com/b/xpBavUUe/white-phoenix-expirmental",
+  "prefs": {
+    "permissionLevel": "private",
+    "voting": "disabled",
+    "comments": "members",
+    "invitations": "members",
+    "selfJoin": false,
+    "cardCovers": true,
+    "cardAging": "regular",
+    "calendarFeedEnabled": false,
+    "background": "5c9984f31980f07b314dceeb",
+    "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1365x2048/7f2ac115fcb52649556d1b650a3e7de3/photo-1553362200-d2f027c173e0",
+    "backgroundImageScaled": [
+      {
+        "width": 67,
+        "height": 100,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/67x100/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 128,
+        "height": 192,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/128x192/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 320,
+        "height": 480,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/320x480/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 640,
+        "height": 960,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/640x960/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 683,
+        "height": 1024,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/683x1024/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 853,
+        "height": 1280,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/853x1280/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 1280,
+        "height": 1920,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1920/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 1066,
+        "height": 1600,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1066x1600/2a1ff5997062b902d9614cbfe519eb84/photo-1553362200-d2f027c173e0.jpg"
+      },
+      {
+        "width": 1365,
+        "height": 2048,
+        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1365x2048/7f2ac115fcb52649556d1b650a3e7de3/photo-1553362200-d2f027c173e0"
+      }
+    ],
+    "backgroundTile": false,
+    "backgroundBrightness": "light",
+    "backgroundBottomColor": "#494228",
+    "backgroundTopColor": "#f8f9fb",
+    "canBePublic": true,
+    "canBeEnterprise": true,
+    "canBeOrg": true,
+    "canBePrivate": true,
+    "canInvite": true
+  },
+  "shortLink": "xpBavUUe",
+  "subscribed": false,
+  "labelNames": {
+    "green": "User Story",
+    "yellow": "Task",
+    "orange": "",
+    "red": "Bug",
+    "purple": "",
+    "blue": "",
+    "sky": "Technical Story",
+    "lime": "",
+    "pink": "",
+    "black": "Spike"
+  },
+  "powerUps": [],
+  "dateLastActivity": "2019-03-27T14:21:55.013Z",
+  "dateLastView": "2019-04-03T17:27:09.013Z",
+  "shortUrl": "https://trello.com/b/xpBavUUe",
+  "idTags": [],
+  "datePluginDisable": null,
+  "creationMethod": null,
+  "actions": [
+    {
+      "id": "5c9b86f08bbb1977949ade24",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "cardSource": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        },
+        "list": {
+          "name": "Development In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a5ca3eef4d34fd24dd017"
+        },
+        "card": {
+          "shortLink": "FS8Jjcqm",
+          "idShort": 6,
+          "name": "@bobperri1 Create SQL Table and create refresh methods for tokens (1 hr)",
+          "id": "5c9b86f08bbb1977949ade13"
+        }
+      },
+      "type": "convertToCardFromCheckItem",
+      "date": "2019-03-27T14:21:36.161Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9b809997bcfd0befb8eef9",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Sprint Backlog (meets DoR and is tasked out)"
+        },
+        "old": {
+          "name": "Sprint Backlog (meets defintion of ready and is tasked out)"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-27T13:54:33.684Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9b808bac3d9c6a7456d070",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Sprint Backlog (meets defintion of ready and is tasked out)"
+        },
+        "old": {
+          "name": "Sprint Backlog (meet defintion of ready and is tasked out)"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-27T13:54:19.864Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a8180196025433d69e97d",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Sprint Backlog (meet defintion of ready and is tasked out)"
+        },
+        "old": {
+          "name": "Sprint Backlog (meet defintion of ready)"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:46:08.689Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a815bcc1dd323195aaa2f",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Sprint Backlog (meet defintion of ready)"
+        },
+        "old": {
+          "name": "Sprint Backlog"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:45:31.905Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a814c1c8f4351e237ef46",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a7e09cc64dc3ad4ba52b1",
+          "name": "Ready for Production (meets acceptance criteria)"
+        },
+        "old": {
+          "name": "Ready for Production"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:45:16.999Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a812c3d36cd23f20ec2b0",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c30462b7a3c8e2dae30",
+          "name": "Done (meets definition of done)"
+        },
+        "old": {
+          "name": "Done"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:44:44.529Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a80af1a713c2d8537595f",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a712d3d700e5e9777230d",
+          "name": "Ready for Testing (development done)"
+        },
+        "old": {
+          "name": "Ready for Testing"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:42:39.915Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a809800fe3a6b117af9ff",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a7d585502753590bb3ee3",
+          "name": "Test in progress"
+        },
+        "old": {
+          "name": "Testing"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:42:16.851Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7fb350ee492dc6951f53",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a712d3d700e5e9777230d",
+          "name": "Ready for Testing"
+        },
+        "old": {
+          "name": "Development Finished"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:38:27.546Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7e172af02c3adb8e2a59",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c30462b7a3c8e2dae30",
+          "name": "Done"
+        },
+        "old": {
+          "name": "Meets Definition of Done"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:31:35.720Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7e0c6b1e5e8e6af9ea05",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Ready for Production",
+          "id": "5c9a7e09cc64dc3ad4ba52b1",
+          "pos": 253951
+        },
+        "old": {
+          "pos": 327679
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:31:24.503Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7e09cc64dc3ad4ba52b2",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Ready for Production",
+          "id": "5c9a7e09cc64dc3ad4ba52b1"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T19:31:21.029Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7df91c7fbb44db9dbf27",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a7d585502753590bb3ee3",
+          "name": "Testing"
+        },
+        "old": {
+          "name": "Ready for Production"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:31:05.859Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7de733883e78a1b334a0",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Ready for Production",
+          "id": "5c9a7d585502753590bb3ee3",
+          "pos": 245759
+        },
+        "old": {
+          "pos": 327679
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:30:47.757Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7dd38613b31ea290d8e2",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a712d3d700e5e9777230d",
+          "name": "Development Finished"
+        },
+        "old": {
+          "name": "Testing in Progess"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:30:27.287Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7dc370522c824286a15b",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Sprint Backlog"
+        },
+        "old": {
+          "name": "Read for Development"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:30:11.669Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d939a640e5d97b8813d",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Read for Development"
+        },
+        "old": {
+          "name": "Sprint Backlog"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:29:23.036Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d84263e6916ba62d06f",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "On Hold",
+          "id": "5c9a5c11ad38c93af907a197",
+          "closed": true
+        },
+        "old": {
+          "closed": false
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:29:08.638Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d585502753590bb3ee4",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Ready for Production",
+          "id": "5c9a7d585502753590bb3ee3"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T19:28:24.966Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d47764954645aabd55c",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a712d3d700e5e9777230d",
+          "name": "Testing in Progess"
+        },
+        "old": {
+          "name": "Testingin Progess"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:28:07.735Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d43c709c62d6a3f309e",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a712d3d700e5e9777230d",
+          "name": "Testingin Progess"
+        },
+        "old": {
+          "name": "In QA"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:28:03.919Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d281636716a83114694",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2ba290f787e02f3e77",
+          "name": "Development In Progress"
+        },
+        "old": {
+          "name": "In Progress"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:27:36.758Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a7d00a0546b09b8301c00",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c30462b7a3c8e2dae30",
+          "name": "Meets Definition of Done"
+        },
+        "old": {
+          "name": "Met Definition of Done"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T19:26:56.877Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a712f90119f29790e8093",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "In QA",
+          "id": "5c9a712d3d700e5e9777230d",
+          "pos": 229375
+        },
+        "old": {
+          "pos": 327679
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T18:36:31.689Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a712d3d700e5e97772311",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "In QA",
+          "id": "5c9a712d3d700e5e9777230d"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T18:36:29.405Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a711f7ea18e512164da88",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c30462b7a3c8e2dae30",
+          "name": "Met Definition of Done"
+        },
+        "old": {
+          "name": "Done"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T18:36:15.149Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6c43a8e66f45f180ed2a",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "listAfter": {
+          "name": "Done",
+          "id": "5c9a5c30462b7a3c8e2dae30"
+        },
+        "listBefore": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+          "id": "5c9a6bdfa7a0f05e292c2be6",
+          "idList": "5c9a5c30462b7a3c8e2dae30"
+        },
+        "old": {
+          "idList": "5c9a5c2079495f1451e57c34"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:15:31.938Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6c3d4e3470328c31849c",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Update the bio and picture (30 mins)",
+          "id": "5c9a6c301398717a9f5c7dec"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a6c165f5fee46462e968e"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+          "id": "5c9a6bdfa7a0f05e292c2be6"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T18:15:25.435Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6c34bdee2f3d460ef78b",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "I see Lisa's profile on the page",
+          "id": "5c9a6c1045f2df8e6cad05f2"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a6c002ce9257705b6177c"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+          "id": "5c9a6bdfa7a0f05e292c2be6"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T18:15:16.555Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6c165f5fee46462e968f",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a6c165f5fee46462e968e"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+          "id": "5c9a6bdfa7a0f05e292c2be6"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T18:14:46.504Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6c002ce9257705b6177e",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a6c002ce9257705b6177c"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+          "id": "5c9a6bdfa7a0f05e292c2be6"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T18:14:24.734Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6bf97b8ae28f762aab9f",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "id": "5c9a6bdfa7a0f05e292c2be6",
+          "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect"
+        },
+        "old": {
+          "name": "FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:14:17.596Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6bdfa7a0f05e292c2be7",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "card": {
+          "shortLink": "QM42WuTU",
+          "idShort": 5,
+          "name": "FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+          "id": "5c9a6bdfa7a0f05e292c2be6"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-03-26T18:13:51.406Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6acca813ab8527ea63be",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a6acca813ab8527ea63b9"
+        },
+        "card": {
+          "shortLink": "dGYq6D9x",
+          "idShort": 4,
+          "name": "(3) Marketplace Current - Products not showing in admin panel",
+          "id": "5c9a6a8bd12a033aff82ad97"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T18:09:16.327Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6ac29181bf341f2e6067",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "dGYq6D9x",
+          "idShort": 4,
+          "id": "5c9a6a8bd12a033aff82ad97",
+          "name": "(3) Marketplace Current - Products not showing in admin panel"
+        },
+        "old": {
+          "name": "Marketplace Current - Products not showing in admin panel"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:09:06.169Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6a8bd12a033aff82ad98",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "card": {
+          "shortLink": "dGYq6D9x",
+          "idShort": 4,
+          "name": "Marketplace Current - Products not showing in admin panel",
+          "id": "5c9a6a8bd12a033aff82ad97"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-03-26T18:08:11.063Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6a2eb002c8558b72e0c5",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "id": "5c9a6903565fa280d7db2a5c",
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? (1 DAY)"
+        },
+        "old": {
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? #h1 1 DAY"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:06:38.108Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6a1619f0c32861dcce0c",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "id": "5c9a6903565fa280d7db2a5c",
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? #h1 1 DAY"
+        },
+        "old": {
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? #1 DAY"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:06:14.721Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6a0a4c408f600d2abe03",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "id": "5c9a6903565fa280d7db2a5c",
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? #1 DAY"
+        },
+        "old": {
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? *1 DAY*"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:06:02.992Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6a0105139f150d68d0ba",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "id": "5c9a6903565fa280d7db2a5c",
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? *1 DAY*"
+        },
+        "old": {
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? **1 DAY**"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:05:53.500Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a69f5ab0066071c53a192",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "id": "5c9a6903565fa280d7db2a5c",
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? **1 DAY**"
+        },
+        "old": {
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker?"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:05:41.323Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a69c0829fb05d9402061a",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker?",
+          "id": "5c9a6903565fa280d7db2a5c",
+          "desc": "Marketing Tracker Event Replay takes 8 to 33 hours to run on QA. WHY?"
+        },
+        "old": {
+          "desc": ""
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T18:04:48.419Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a691ea0e970329cda0c4b",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a691ea0e970329cda0c49"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker?",
+          "id": "5c9a6903565fa280d7db2a5c"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T18:02:06.078Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6903565fa280d7db2a5d",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "card": {
+          "shortLink": "vlk1puPz",
+          "idShort": 3,
+          "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker?",
+          "id": "5c9a6903565fa280d7db2a5c"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-03-26T18:01:39.238Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a665d5e732123676e957d",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4",
+          "desc": ""
+        },
+        "old": {
+          "desc": "We have no Acceptance Criteria\n"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:50:21.536Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6654b422d123525c7720",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a6654b422d123525c771f"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T17:50:12.379Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a664bdd2f8f4fca76f9a3",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "id": "5c9a5ca3eef4d34fd24dd017",
+          "name": "Tasks"
+        },
+        "old": {
+          "name": "Act-on endpoint adding contacts by bulk"
+        }
+      },
+      "type": "updateChecklist",
+      "date": "2019-03-26T17:50:03.472Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65f2e9ec044f9341e544",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "listAfter": {
+          "name": "Done",
+          "id": "5c9a5c30462b7a3c8e2dae30"
+        },
+        "listBefore": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba",
+          "idList": "5c9a5c30462b7a3c8e2dae30"
+        },
+        "old": {
+          "idList": "5c9a5c2ba290f787e02f3e77"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:48:34.986Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65df9b656f807bcec1e3",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba",
+          "pos": 131071
+        },
+        "old": {
+          "pos": 65535
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:48:15.511Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65df9b656f807bcec1e2",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "listAfter": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "listBefore": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba",
+          "idList": "5c9a5c2ba290f787e02f3e77"
+        },
+        "old": {
+          "idList": "5c9a5c2079495f1451e57c34"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:48:15.487Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a4e454134ba0b7fe14",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Start RME Responder List as Thins (1hr)",
+          "id": "5c9a6481e337c4500eb0a994"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:16.708Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a4acae95326b4b5ecb",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Return Responder Campain List by campaing via MT Endpoint (2hrs)",
+          "id": "5c9a64684d28658c1940bd09"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:16.180Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a34d28658c1940dbff",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "UI - Dropdown list + button to call MT API to connect RME Event to MT (3hrs)",
+          "id": "5c9a644ef77010320090fb9c"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:15.642Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a34d2b547b78783455",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Return Campaing List JSON via MT Endpoint (2hrs)",
+          "id": "5c9a642726815347b0deed12"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:15.433Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a3cb5c91436ec60965",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Connect to API (2hrs)",
+          "id": "5c9a6411688ccc752ee4be7a"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:15.355Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a1f7701032009122e4",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Token Exchange Table in DB (1hr)",
+          "id": "5c9a640433883e78a1ada5fb"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:13.276Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a0ad98468a005a90a7",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Translating Data to event reponder list in MT (2hrs)",
+          "id": "5c9a63f637c7ff43878ea2a1"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:12.793Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a65a02f820a629636c30f",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "Review Doc's (?)",
+          "id": "5c9a63d2631cb631e8557b81"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:12.329Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a659efdb90822eb3de5e9",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "It will show my insights from that list",
+          "id": "5c9a6529c26b2144e1abdc9c"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a649fa181e3805b325197"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:10.919Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a659de9e4c438ca2e8358",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "I can pull in the event responders for an event from RME",
+          "id": "5c9a650e29ec4c3215bc7203"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a649fa181e3805b325197"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:09.418Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a659cd7c5a4841a192828",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "I can view a list of my events from RME",
+          "id": "5c9a64c73006c55dfd5609af"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a649fa181e3805b325197"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:47:08.652Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6590c72dfe09b9caa28d",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba",
+          "closed": false
+        },
+        "old": {
+          "closed": true
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:46:56.850Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a64d2d6b9b724d8ad864b",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba",
+          "closed": true
+        },
+        "old": {
+          "closed": false
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:43:46.845Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a64d2e8196176daf95b31",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "member": {
+          "name": "Bob Perri",
+          "id": "59edfda6d7cb325d48aef60f"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        },
+        "idMember": "59edfda6d7cb325d48aef60f"
+      },
+      "type": "addMemberToCard",
+      "date": "2019-03-26T17:43:46.569Z",
+      "limits": {},
+      "member": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      },
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a649fa181e3805b325198",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Acceptance Criteria",
+          "id": "5c9a649fa181e3805b325197"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T17:42:55.146Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a63c809d6743221a9c5e8",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Tasks",
+          "id": "5c9a63c809d6743221a9c5e7"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+          "id": "5c9a612f4cf874837a7dcbba"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T17:39:20.727Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a61ba1eca5978c18e4ae9",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "id": "5c9a612f4cf874837a7dcbba",
+          "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets"
+        },
+        "old": {
+          "name": "Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:30:34.682Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a61b1de7fb21eb0848226",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "id": "5c9a612f4cf874837a7dcbba",
+          "name": "Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets"
+        },
+        "old": {
+          "name": "Marketing Tracker - RME"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:30:25.001Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a61452aeb95862f733a67",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4",
+          "desc": "We have no Acceptance Criteria\n"
+        },
+        "old": {
+          "desc": "We had no Acceptance Criteria\n"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:28:37.897Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6141cea596808f45f6fc",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "member": {
+          "name": "Bob Perri",
+          "id": "59edfda6d7cb325d48aef60f"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        },
+        "idMember": "59edfda6d7cb325d48aef60f"
+      },
+      "type": "addMemberToCard",
+      "date": "2019-03-26T17:28:33.293Z",
+      "limits": {},
+      "member": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      },
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a613e9da5e828717c08a0",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4",
+          "desc": "We had no Acceptance Criteria\n"
+        },
+        "old": {
+          "desc": ""
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:28:30.198Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a612f4cf874837a7dcbbf",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "card": {
+          "shortLink": "gMk7qcF4",
+          "idShort": 2,
+          "name": "Marketing Tracker - RME",
+          "id": "5c9a612f4cf874837a7dcbba"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-03-26T17:28:15.506Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a60e10bc28c81eaf1021d",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "listAfter": {
+          "name": "In Progress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        },
+        "listBefore": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4",
+          "idList": "5c9a5c2ba290f787e02f3e77"
+        },
+        "old": {
+          "idList": "5c9a5c2079495f1451e57c34"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:26:57.950Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a60bfb24f423299a2bbd8",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": "@bobperri1 add model for export of attendees to acton (2 hrs)",
+          "id": "5c9a5cbee8ab6313e15e5340"
+        },
+        "checklist": {
+          "name": "Act-on endpoint adding contacts by bulk",
+          "id": "5c9a5ca3eef4d34fd24dd017"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:26:23.240Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a6025cb13a52950c405f9",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c11ad38c93af907a197",
+          "name": "On Hold"
+        },
+        "old": {
+          "name": "Sprint Backlog"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T17:23:49.560Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a601d768ec1644b70280e",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2079495f1451e57c34",
+          "name": "Sprint Backlog"
+        },
+        "old": {
+          "name": "Ready"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T17:23:41.989Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5e9c679485480af3f897",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "list": {
+          "name": "Ready",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "id": "5c9a5c8a4e68b185b0014cd4",
+          "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads"
+        },
+        "old": {
+          "name": "Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:17:16.015Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5e60e230b44f1bfa70fd",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "listAfter": {
+          "name": "Ready",
+          "id": "5c9a5c2079495f1451e57c34"
+        },
+        "listBefore": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c11ad38c93af907a197"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4",
+          "idList": "5c9a5c2079495f1451e57c34"
+        },
+        "old": {
+          "idList": "5c9a5c11ad38c93af907a197"
+        }
+      },
+      "type": "updateCard",
+      "date": "2019-03-26T17:16:16.950Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5d952efc7c6bddba3a10",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "checkItem": {
+          "state": "complete",
+          "name": ":thumbsup: @bobperri1 Add js methods for Acton API calls",
+          "id": "5c9a5cb0acb4f73a9d184c9d"
+        },
+        "checklist": {
+          "name": "Act-on endpoint adding contacts by bulk",
+          "id": "5c9a5ca3eef4d34fd24dd017"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        },
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "updateCheckItemStateOnCard",
+      "date": "2019-03-26T17:12:53.880Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5ca3eef4d34fd24dd018",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "checklist": {
+          "name": "Act-on endpoint adding contacts by bulk",
+          "id": "5c9a5ca3eef4d34fd24dd017"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        }
+      },
+      "type": "addChecklistToCard",
+      "date": "2019-03-26T17:08:51.916Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5c8a4e68b185b0014cd5",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c11ad38c93af907a197"
+        },
+        "card": {
+          "shortLink": "w2fxyrSl",
+          "idShort": 1,
+          "name": "Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+          "id": "5c9a5c8a4e68b185b0014cd4"
+        }
+      },
+      "type": "createCard",
+      "date": "2019-03-26T17:08:26.226Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5c3e764954645aa4d182",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "id": "5c9a5c2ba290f787e02f3e77",
+          "name": "In Progress"
+        },
+        "old": {
+          "name": "InProgress"
+        }
+      },
+      "type": "updateList",
+      "date": "2019-03-26T17:07:10.732Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5c30462b7a3c8e2dae31",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Done",
+          "id": "5c9a5c30462b7a3c8e2dae30"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T17:06:56.666Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5c2ba290f787e02f3e78",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "InProgress",
+          "id": "5c9a5c2ba290f787e02f3e77"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T17:06:51.480Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5c2079495f1451e57c35",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Ready",
+          "id": "5c9a5c2079495f1451e57c34"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T17:06:40.891Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5c11ad38c93af907a198",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        },
+        "list": {
+          "name": "Sprint Backlog",
+          "id": "5c9a5c11ad38c93af907a197"
+        }
+      },
+      "type": "createList",
+      "date": "2019-03-26T17:06:25.295Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    },
+    {
+      "id": "5c9a5bfd7e90ec74e380fe85",
+      "idMemberCreator": "59edfda6d7cb325d48aef60f",
+      "data": {
+        "board": {
+          "shortLink": "xpBavUUe",
+          "name": "White Phoenix Expirmental",
+          "id": "5c9a5bfd7e90ec74e380fe83"
+        }
+      },
+      "type": "createBoard",
+      "date": "2019-03-26T17:06:05.802Z",
+      "limits": {},
+      "memberCreator": {
+        "id": "59edfda6d7cb325d48aef60f",
+        "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+        "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+        "fullName": "Bob Perri",
+        "idMemberReferrer": "578cd6219dca32d47232d13e",
+        "initials": "BP",
+        "nonPublic": {},
+        "nonPublicAvailable": false,
+        "username": "bobperri1"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "id": "5c9a6903565fa280d7db2a5c",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-03-26T18:06:38.094Z",
+      "desc": "Marketing Tracker Event Replay takes 8 to 33 hours to run on QA. WHY?",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idLabels": ["5c9a5e421d07fd8e72f0c7f0"],
+      "idList": "5c9a5c2079495f1451e57c34",
+      "idMembersVoted": [],
+      "idShort": 3,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "Marketing Traker - Event Replay - Why is event replay slow for Marketing tracker? (1 DAY)",
+      "pos": 65535,
+      "shortLink": "vlk1puPz",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 2,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "bobperri1+2p51zulxqdydo835wcv+2s10ovd52azmdq6sorg+1oh52jyg4c@boards.trello.com",
+      "idChecklists": ["5c9a691ea0e970329cda0c49"],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5c9a5e421d07fd8e72f0c7f0",
+          "idBoard": "5c9a5bfd7e90ec74e380fe83",
+          "name": "Spike",
+          "color": "black"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/vlk1puPz",
+      "subscribed": false,
+      "url": "https://trello.com/c/vlk1puPz/3-marketing-traker-event-replay-why-is-event-replay-slow-for-marketing-tracker-1-day",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5c9a6a8bd12a033aff82ad97",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-03-26T18:10:24.411Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idLabels": ["5c9a5bfd91d0c2ddc5f41635"],
+      "idList": "5c9a5c2079495f1451e57c34",
+      "idMembersVoted": [],
+      "idShort": 4,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "(3) Marketplace Current - Products not showing in admin panel",
+      "pos": 131071,
+      "shortLink": "dGYq6D9x",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 4,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "bobperri1+2p51zulxqdydo835wcv+2s10q1t2z324mj58eqf+121mrtolzd@boards.trello.com",
+      "idChecklists": ["5c9a6acca813ab8527ea63b9"],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5c9a5bfd91d0c2ddc5f41635",
+          "idBoard": "5c9a5bfd7e90ec74e380fe83",
+          "name": "Bug",
+          "color": "red"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/dGYq6D9x",
+      "subscribed": false,
+      "url": "https://trello.com/c/dGYq6D9x/4-3-marketplace-current-products-not-showing-in-admin-panel",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5c9a5c8a4e68b185b0014cd4",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-03-27T14:21:47.540Z",
+      "desc": "",
+      "descData": {
+        "emoji": {}
+      },
+      "dueReminder": null,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idLabels": ["5c9a5bfd91d0c2ddc5f41636"],
+      "idList": "5c9a5c2ba290f787e02f3e77",
+      "idMembersVoted": [],
+      "idShort": 1,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "(21) Marketing Tracker - Act-On - As a user I would like to enroll a list segment of an RME list into an Act on Campaign so that I can contribute to follow up w/ leads",
+      "pos": 65535,
+      "shortLink": "w2fxyrSl",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true,
+        "fogbugz": "",
+        "checkItems": 11,
+        "checkItemsChecked": 2,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "bobperri1+2p51zulxqdydo835wcv+2s10fa2io2q4emj3cgk+20mffhbrsn@boards.trello.com",
+      "idChecklists": ["5c9a5ca3eef4d34fd24dd017", "5c9a6654b422d123525c771f"],
+      "idMembers": ["59edfda6d7cb325d48aef60f"],
+      "labels": [
+        {
+          "id": "5c9a5bfd91d0c2ddc5f41636",
+          "idBoard": "5c9a5bfd7e90ec74e380fe83",
+          "name": "User Story",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/w2fxyrSl",
+      "subscribed": true,
+      "url": "https://trello.com/c/w2fxyrSl/1-21-marketing-tracker-act-on-as-a-user-i-would-like-to-enroll-a-list-segment-of-an-rme-list-into-an-act-on-campaign-so-that-i-can",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5c9b86f08bbb1977949ade13",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-03-27T14:21:55.013Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idLabels": ["5c9a5bfd91d0c2ddc5f41638"],
+      "idList": "5c9a5c2ba290f787e02f3e77",
+      "idMembersVoted": [],
+      "idShort": 6,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "@bobperri1 Create SQL Table and create refresh methods for tokens (1 hr)",
+      "pos": 81919,
+      "shortLink": "FS8Jjcqm",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "bobperri1+2p51zulxqdydo835wcv+2s16sqxcujjf5pxqqkz+2i3svt9uga@boards.trello.com",
+      "idChecklists": [],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5c9a5bfd91d0c2ddc5f41638",
+          "idBoard": "5c9a5bfd7e90ec74e380fe83",
+          "name": "Task",
+          "color": "yellow"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/FS8Jjcqm",
+      "subscribed": false,
+      "url": "https://trello.com/c/FS8Jjcqm/6-bobperri1-create-sql-table-and-create-refresh-methods-for-tokens-1-hr",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5c9a612f4cf874837a7dcbba",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-03-26T17:56:51.053Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idLabels": ["5c9a5bfd91d0c2ddc5f41636"],
+      "idList": "5c9a5c30462b7a3c8e2dae30",
+      "idMembersVoted": [],
+      "idShort": 2,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "(21) Marketing Tracker - RME - As an Agent I would like to automatically pull an event inot MT. So I don't have to upload spreadsheets",
+      "pos": 131071,
+      "shortLink": "gMk7qcF4",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": true,
+        "fogbugz": "",
+        "checkItems": 11,
+        "checkItemsChecked": 11,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "bobperri1+2p51zulxqdydo835wcv+2s10iunbw25btqmvxyy+0nmik5y67c@boards.trello.com",
+      "idChecklists": ["5c9a63c809d6743221a9c5e7", "5c9a649fa181e3805b325197"],
+      "idMembers": ["59edfda6d7cb325d48aef60f"],
+      "labels": [
+        {
+          "id": "5c9a5bfd91d0c2ddc5f41636",
+          "idBoard": "5c9a5bfd7e90ec74e380fe83",
+          "name": "User Story",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/gMk7qcF4",
+      "subscribed": true,
+      "url": "https://trello.com/c/gMk7qcF4/2-21-marketing-tracker-rme-as-an-agent-i-would-like-to-automatically-pull-an-event-inot-mt-so-i-dont-have-to-upload-spreadsheets",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    },
+    {
+      "id": "5c9a6bdfa7a0f05e292c2be6",
+      "address": null,
+      "checkItemStates": null,
+      "closed": false,
+      "coordinates": null,
+      "creationMethod": null,
+      "dateLastActivity": "2019-03-26T18:15:31.918Z",
+      "desc": "",
+      "descData": null,
+      "dueReminder": null,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idLabels": ["5c9a5bfd91d0c2ddc5f41636"],
+      "idList": "5c9a5c30462b7a3c8e2dae30",
+      "idMembersVoted": [],
+      "idShort": 5,
+      "idAttachmentCover": null,
+      "limits": {
+        "attachments": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 1000,
+            "warnAt": 900
+          }
+        },
+        "checklists": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 500,
+            "warnAt": 450
+          }
+        },
+        "stickers": {
+          "perCard": {
+            "status": "ok",
+            "disableAt": 70,
+            "warnAt": 63
+          }
+        }
+      },
+      "locationName": null,
+      "manualCoverAttachment": false,
+      "name": "(1) FIG Tech Summit - As a potential tech summit attendee I would like to see the true summit speakers. So I know what to expect",
+      "pos": 196607,
+      "shortLink": "QM42WuTU",
+      "badges": {
+        "attachmentsByType": {
+          "trello": {
+            "board": 0,
+            "card": 0
+          }
+        },
+        "location": false,
+        "votes": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false,
+        "fogbugz": "",
+        "checkItems": 2,
+        "checkItemsChecked": 2,
+        "comments": 0,
+        "attachments": 0,
+        "description": false,
+        "due": null,
+        "dueComplete": false
+      },
+      "dueComplete": false,
+      "due": null,
+      "email": "bobperri1+2p51zulxqdydo835wcv+2s10r2k34z1zbd5h812+0oq6kryzw7@boards.trello.com",
+      "idChecklists": ["5c9a6c002ce9257705b6177c", "5c9a6c165f5fee46462e968e"],
+      "idMembers": [],
+      "labels": [
+        {
+          "id": "5c9a5bfd91d0c2ddc5f41636",
+          "idBoard": "5c9a5bfd7e90ec74e380fe83",
+          "name": "User Story",
+          "color": "green"
+        }
+      ],
+      "shortUrl": "https://trello.com/c/QM42WuTU",
+      "subscribed": false,
+      "url": "https://trello.com/c/QM42WuTU/5-1-fig-tech-summit-as-a-potential-tech-summit-attendee-i-would-like-to-see-the-true-summit-speakers-so-i-know-what-to-expect",
+      "attachments": [],
+      "pluginData": [],
+      "customFieldItems": []
+    }
+  ],
+  "labels": [
+    {
+      "id": "5c9a5bfd91d0c2ddc5f41636",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "User Story",
+      "color": "green"
+    },
+    {
+      "id": "5c9a5bfd91d0c2ddc5f41635",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "Bug",
+      "color": "red"
+    },
+    {
+      "id": "5c9a5bfd91d0c2ddc5f41638",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "Task",
+      "color": "yellow"
+    },
+    {
+      "id": "5c9a5e421d07fd8e72f0c7f0",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "Spike",
+      "color": "black"
+    },
+    {
+      "id": "5c9a5bfd91d0c2ddc5f41639",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "",
+      "color": "orange"
+    },
+    {
+      "id": "5c9a5bfd91d0c2ddc5f41640",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "",
+      "color": "blue"
+    },
+    {
+      "id": "5c9a5bfd91d0c2ddc5f41641",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "",
+      "color": "purple"
+    },
+    {
+      "id": "5c9a5e1986446b28d5d92c74",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "name": "Technical Story",
+      "color": "sky"
+    }
+  ],
+  "lists": [
+    {
+      "id": "5c9a5c11ad38c93af907a197",
+      "name": "On Hold",
+      "closed": true,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 65535,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5c9a5c2079495f1451e57c34",
+      "name": "Sprint Backlog (meets DoR and is tasked out)",
+      "closed": false,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 131071,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5c9a5c2ba290f787e02f3e77",
+      "name": "Development In Progress",
+      "closed": false,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 196607,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5c9a712d3d700e5e9777230d",
+      "name": "Ready for Testing (development done)",
+      "closed": false,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 229375,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5c9a7d585502753590bb3ee3",
+      "name": "Test in progress",
+      "closed": false,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 245759,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5c9a7e09cc64dc3ad4ba52b1",
+      "name": "Ready for Production (meets acceptance criteria)",
+      "closed": false,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 253951,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    },
+    {
+      "id": "5c9a5c30462b7a3c8e2dae30",
+      "name": "Done (meets definition of done)",
+      "closed": false,
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "pos": 262143,
+      "subscribed": false,
+      "softLimit": null,
+      "limits": {
+        "cards": {
+          "openPerList": {
+            "status": "ok",
+            "disableAt": 5000,
+            "warnAt": 4500
+          },
+          "totalPerList": {
+            "status": "ok",
+            "disableAt": 1000000,
+            "warnAt": 900000
+          }
+        }
+      },
+      "creationMethod": null
+    }
+  ],
+  "members": [
+    {
+      "id": "59edfda6d7cb325d48aef60f",
+      "avatarHash": "1bf6d047aa9d49f0276f6884f26372b6",
+      "avatarUrl": "https://trello-avatars.s3.amazonaws.com/1bf6d047aa9d49f0276f6884f26372b6",
+      "bio": "Software Developer",
+      "bioData": {
+        "emoji": {}
+      },
+      "confirmed": true,
+      "fullName": "Bob Perri",
+      "idEnterprise": null,
+      "idEnterprisesDeactivated": [],
+      "idMemberReferrer": "578cd6219dca32d47232d13e",
+      "idPremOrgsAdmin": [],
+      "initials": "BP",
+      "memberType": "normal",
+      "nonPublic": {},
+      "nonPublicAvailable": false,
+      "products": [],
+      "status": "disconnected",
+      "url": "https://trello.com/bobperri1",
+      "username": "bobperri1"
+    }
+  ],
+  "checklists": [
+    {
+      "id": "5c9a5ca3eef4d34fd24dd017",
+      "name": "Tasks",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a5c8a4e68b185b0014cd4",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "complete",
+          "id": "5c9a5cb0acb4f73a9d184c9d",
+          "name": "@bobperri1 Add js methods for Acton API calls (1 hr)",
+          "nameData": null,
+          "pos": 16812
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "complete",
+          "id": "5c9a5cbee8ab6313e15e5340",
+          "name": "@bobperri1 add model for export of attendees to acton (2 hrs)",
+          "nameData": null,
+          "pos": 33354
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9a603f2291f5364f09726f",
+          "name": "Filter Responder List by attendance (3 hrs)",
+          "nameData": null,
+          "pos": 67855
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9a604ea02ff5809f4f9435",
+          "name": "Filter Segments responder list (2hrs)",
+          "nameData": null,
+          "pos": 84297
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9a6072590a3880bcc175ce",
+          "name": "Mockup - workflow to export a filtered list to a specific act on List (?)",
+          "nameData": null,
+          "pos": 101332
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9a6085383c2a33df2a74a1",
+          "name": "Set up API Auth (1 hrs)",
+          "nameData": null,
+          "pos": 117723
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9a60a038623e3231c70f3a",
+          "name": "Using ActOn Api get a listing of lists from Acton Account (1hr)",
+          "nameData": null,
+          "pos": 134385
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9a60bbc633ca2690a49e20",
+          "name": "Using acton API, push segment of attendees to list in acton (2hrs)",
+          "nameData": null,
+          "pos": 151682
+        },
+        {
+          "idChecklist": "5c9a5ca3eef4d34fd24dd017",
+          "state": "incomplete",
+          "id": "5c9b86fb72e8da57f3eca843",
+          "name": "https://trello.com/c/FS8Jjcqm/6-bobperri1-create-sql-table-and-create-refresh-methods-for-tokens-1-hr",
+          "nameData": null,
+          "pos": 168945
+        }
+      ]
+    },
+    {
+      "id": "5c9a63c809d6743221a9c5e7",
+      "name": "Tasks",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a612f4cf874837a7dcbba",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a63d2631cb631e8557b81",
+          "name": "@bobperri1 Review Doc's (?)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 16755
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a63f637c7ff43878ea2a1",
+          "name": "@bobperri1 Translating Data to event reponder list in MT (2hrs)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 33296
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a640433883e78a1ada5fb",
+          "name": "@bobperri1 Token Exchange Table in DB (1hr)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 49681
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a6411688ccc752ee4be7a",
+          "name": "@bobperri1 Connect to API (2hrs)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 66069
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a642726815347b0deed12",
+          "name": "@bobperri1 Return Campaing List JSON via MT Endpoint (2hrs)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 83416
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a644ef77010320090fb9c",
+          "name": "@bobperri1 UI - Dropdown list + button to call MT API to connect RME Event to MT (3hrs)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 100238
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a64684d28658c1940bd09",
+          "name": "@bobperri1 Return Responder Campain List by campaing via MT Endpoint (2hrs)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 117509
+        },
+        {
+          "idChecklist": "5c9a63c809d6743221a9c5e7",
+          "state": "complete",
+          "id": "5c9a6481e337c4500eb0a994",
+          "name": "@bobperri1 Start RME Responder List as Thins (1hr)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 134153
+        }
+      ]
+    },
+    {
+      "id": "5c9a649fa181e3805b325197",
+      "name": "Acceptance Criteria",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a612f4cf874837a7dcbba",
+      "pos": 8192,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a649fa181e3805b325197",
+          "state": "complete",
+          "id": "5c9a64c73006c55dfd5609af",
+          "name": "I can view a list of my events from RME",
+          "nameData": null,
+          "pos": 16883
+        },
+        {
+          "idChecklist": "5c9a649fa181e3805b325197",
+          "state": "complete",
+          "id": "5c9a650e29ec4c3215bc7203",
+          "name": "I can pull in the event responders for an event from RME",
+          "nameData": null,
+          "pos": 33362
+        },
+        {
+          "idChecklist": "5c9a649fa181e3805b325197",
+          "state": "complete",
+          "id": "5c9a6529c26b2144e1abdc9c",
+          "name": "It will show my insights from that list",
+          "nameData": null,
+          "pos": 49924
+        }
+      ]
+    },
+    {
+      "id": "5c9a6654b422d123525c771f",
+      "name": "Acceptance Criteria",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a5c8a4e68b185b0014cd4",
+      "pos": 8192,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a6654b422d123525c771f",
+          "state": "incomplete",
+          "id": "5c9a667da7689d64edd5da20",
+          "name": "I can access my Act-on campaigns",
+          "nameData": null,
+          "pos": 16584
+        },
+        {
+          "idChecklist": "5c9a6654b422d123525c771f",
+          "state": "incomplete",
+          "id": "5c9a6690c2500572f6b82a68",
+          "name": "I can send a filtered list to one of my Act-on Campains",
+          "nameData": null,
+          "pos": 33359
+        }
+      ]
+    },
+    {
+      "id": "5c9a691ea0e970329cda0c49",
+      "name": "Tasks",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a6903565fa280d7db2a5c",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a691ea0e970329cda0c49",
+          "state": "incomplete",
+          "id": "5c9a6935e679554776676c5b",
+          "name": "Figure out why Marketing tracker event replay runs slow",
+          "nameData": null,
+          "pos": 16667
+        },
+        {
+          "idChecklist": "5c9a691ea0e970329cda0c49",
+          "state": "incomplete",
+          "id": "5c9a694d842d437dc0e19fed",
+          "name": "Figure out what steps we'll need to do to remedy this situation",
+          "nameData": null,
+          "pos": 34002
+        }
+      ]
+    },
+    {
+      "id": "5c9a6acca813ab8527ea63b9",
+      "name": "Tasks",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a6a8bd12a033aff82ad97",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a6acca813ab8527ea63b9",
+          "state": "incomplete",
+          "id": "5c9a6ad5188d5444f6f64025",
+          "name": "Replicate on Prod (?)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 17299
+        },
+        {
+          "idChecklist": "5c9a6acca813ab8527ea63b9",
+          "state": "incomplete",
+          "id": "5c9a6ae917585855003c08b5",
+          "name": "Replicate Locally (?)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 34366
+        },
+        {
+          "idChecklist": "5c9a6acca813ab8527ea63b9",
+          "state": "incomplete",
+          "id": "5c9a6af1d8753a86898a3b3a",
+          "name": "Diagnose Issue Causes (?)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 50919
+        },
+        {
+          "idChecklist": "5c9a6acca813ab8527ea63b9",
+          "state": "incomplete",
+          "id": "5c9a6af35e732123676f9cdd",
+          "name": "Fix(?)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 68118
+        }
+      ]
+    },
+    {
+      "id": "5c9a6c002ce9257705b6177c",
+      "name": "Acceptance Criteria",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a6bdfa7a0f05e292c2be6",
+      "pos": 16384,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a6c002ce9257705b6177c",
+          "state": "complete",
+          "id": "5c9a6c1045f2df8e6cad05f2",
+          "name": "I see Lisa's profile on the page",
+          "nameData": null,
+          "pos": 17235
+        }
+      ]
+    },
+    {
+      "id": "5c9a6c165f5fee46462e968e",
+      "name": "Tasks",
+      "idBoard": "5c9a5bfd7e90ec74e380fe83",
+      "idCard": "5c9a6bdfa7a0f05e292c2be6",
+      "pos": 32768,
+      "limits": {
+        "checkItems": {
+          "perChecklist": {
+            "status": "ok",
+            "disableAt": 200,
+            "warnAt": 180
+          }
+        }
+      },
+      "creationMethod": null,
+      "checkItems": [
+        {
+          "idChecklist": "5c9a6c165f5fee46462e968e",
+          "state": "complete",
+          "id": "5c9a6c301398717a9f5c7dec",
+          "name": "@bobperri1 Update the bio and picture (30 mins)",
+          "nameData": {
+            "emoji": {}
+          },
+          "pos": 17162
+        }
+      ]
+    }
+  ],
+  "customFields": [],
+  "memberships": [
+    {
+      "id": "5c9a5bfd7e90ec74e380fe84",
+      "idMember": "59edfda6d7cb325d48aef60f",
+      "memberType": "admin",
+      "unconfirmed": false,
+      "deactivated": false
+    }
+  ],
+  "pluginData": []
+}
