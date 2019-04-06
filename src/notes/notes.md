@@ -6,14 +6,11 @@
 
 ### In Progress
 
-- upgrade to angular 7
-  - need to move to stack blitz
-
-### Backlog
-
 - add UI
   - angular material
   - chek out todoodle
+
+### Backlog
 
 - dag and drop tasks
   - updates columns on tasks
@@ -31,11 +28,14 @@
 
 ### What's done
 
-- 4/3/2019
-  - created
-  - added task board component
-  - added task class
 - 4/5/2019
   - Added task service
   - added mock tasks
   - added note.md for keeping track of notes
+  - upgrade to angular 7
+    - need to move to stack blitz
+
+- 4/3/2019
+  - created
+  - added task board component
+  - added task class
