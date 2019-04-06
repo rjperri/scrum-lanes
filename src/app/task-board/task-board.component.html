@@ -1,0 +1,13 @@
+<div style="text-align:center">
+  <h2>Task Board {{thing}}</h2>
+  <table>
+    <tr>
+      <th>Task Name</th>
+      <th>Task Column</th>
+    </tr>
+    <tr *ngFor="let task of tasks">
+      <th>{{task.description}}</th>
+      <th>{{task.column}}</th>
+    </tr>
+  </table>
+</div>
