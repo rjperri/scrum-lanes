@@ -1,13 +1,25 @@
-<div style="text-align:center">
-  <h2>Task Board {{thing}}</h2>
-  <table>
-    <tr>
-      <th>Task Name</th>
-      <th>Task Column</th>
-    </tr>
-    <tr *ngFor="let task of tasks">
-      <th>{{task.description}}</th>
-      <th>{{task.column}}</th>
-    </tr>
-  </table>
+<div cdkDropListGroup>
+  <div class="example-container">
+    <h2>To do</h2>
+
+    <div
+      cdkDropList
+      [cdkDropListData]="todo"
+      class="example-list"
+      (cdkDropListDropped)="drop($event)">
+      <div class="example-box" *ngFor="let item of todo" cdkDrag>{{item.description}}</div>
+    </div>
+  </div>
+
+  <div class="example-container">
+    <h2>Done</h2>
+
+    <div
+      cdkDropList
+      [cdkDropListData]="done"
+      class="example-list"
+      (cdkDropListDropped)="drop($event)">
+      <div class="example-box" *ngFor="let item of done" cdkDrag>{{item.description}}</div>
+    </div>
+  </div>
 </div>
