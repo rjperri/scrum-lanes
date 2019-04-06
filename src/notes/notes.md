@@ -6,15 +6,10 @@
 
 ### In Progress
 
-- add UI
-  - angular material
-  - chek out todoodle
+- figure out view structure for drag and drop columns
 
 ### Backlog
 
-- dag and drop tasks
-  - updates columns on tasks
-  - <https://material.angular.io/cdk/drag-drop/overview>
 - add local storage
   - use `localStorage`
 - cusomizable columns
@@ -27,6 +22,14 @@
   - check out todoole for lambda stuff
 
 ### What's done
+
+- 4/6/2019 
+  - add UI
+    - angular material
+    - chek out todoodle
+  - dag and drop tasks
+    - updates columns on tasks
+    - <https://material.angular.io/cdk/drag-drop/overview>
 
 - 4/5/2019
   - Added task service
