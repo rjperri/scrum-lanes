@@ -10,15 +10,17 @@ import {CdkDragDrop, moveItemInArray, transferArrayItem} from
   styleUrls: ["./task-board.component.css"]
 })
 export class TaskBoardComponent implements OnInit {
-  todo: Task[];
+  backlog: Task[];
+  inProgress: Task[];
   done: Task[];
 
   constructor(private taskService: TaskService) {}
 
   ngOnInit() {
     this.taskService.getTasks().subscribe(tasks => {
-      this.todo = tasks;
-      this.done = [];
+      this.backlog = tasks.filter(t => t.column === "backlog");
+      this.inProgress = tasks.filter(t => t.column === "inProgress");
+      this.done = tasks.filter(t => t.column === "done");
     });
   }
 
