@@ -7,12 +7,15 @@
 ### In Progress
 
 - figure out view structure for drag and drop columns
+  - cusomizable columns
+  - board.columns = []
+  - columns = {name, tasks []}
+  - when task changes column so does its column
 
 ### Backlog
 
 - add local storage
   - use `localStorage`
-- cusomizable columns
 - add user stories
   - data structure for combining stroies, tasks, and columns
   - look at trello.json for example
