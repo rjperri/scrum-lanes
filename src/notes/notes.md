@@ -14,6 +14,10 @@
 
 ### Backlog
 
+- tasks
+  - create
+  - update
+  - delete
 - add local storage
   - use `localStorage`
 - add user stories
