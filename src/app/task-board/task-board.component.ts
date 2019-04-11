@@ -1,5 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { Task } from "../task";
+import { Board } from "../board";
 import { TaskService } from "../task.service";
 import {CdkDragDrop, moveItemInArray, transferArrayItem} from 
 '@angular/cdk/drag-drop';
@@ -10,20 +11,12 @@ import {CdkDragDrop, moveItemInArray, transferArrayItem} from
   styleUrls: ["./task-board.component.css"]
 })
 export class TaskBoardComponent implements OnInit {
-  backlog: Task[];
-  inProgress: Task[];
-  done: Task[];
-  board = {
-    columns: [
-      {name: "backlog", tasks: []},
-      {name: "inProgress", tasks: []},
-      {name: "done", tasks: []}
-    ]
-  };
+  board: Board;
 
   constructor(private taskService: TaskService) {}
 
   ngOnInit() {
+    //this.board = new Board();
     this.taskService.getTasks().subscribe(tasks => {
 
       this.board.columns.forEach((c) => {
