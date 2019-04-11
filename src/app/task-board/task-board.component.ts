@@ -13,14 +13,22 @@ export class TaskBoardComponent implements OnInit {
   backlog: Task[];
   inProgress: Task[];
   done: Task[];
+  board = {
+    columns: [
+      {name: "backlog", tasks: []},
+      {name: "inProgress", tasks: []},
+      {name: "done", tasks: []}
+    ]
+  };
 
   constructor(private taskService: TaskService) {}
 
   ngOnInit() {
     this.taskService.getTasks().subscribe(tasks => {
-      this.backlog = tasks.filter(t => t.column === "backlog");
-      this.inProgress = tasks.filter(t => t.column === "inProgress");
-      this.done = tasks.filter(t => t.column === "done");
+
+      this.board.columns.forEach((c) => {
+        c.tasks = tasks.filter(t => t.column === c.name);
+      });
     });
   }
 
