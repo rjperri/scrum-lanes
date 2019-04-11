@@ -11,14 +11,19 @@ import {CdkDragDrop, moveItemInArray, transferArrayItem} from
   styleUrls: ["./task-board.component.css"]
 })
 export class TaskBoardComponent implements OnInit {
-  board: Board;
+  board = {
+    columns: [
+      {name: "backlog", tasks: []},
+      {name: "inProgress", tasks: []},
+      {name: "done", tasks: []}
+    ]
+  };
 
   constructor(private taskService: TaskService) {}
 
   ngOnInit() {
     //this.board = new Board();
     this.taskService.getTasks().subscribe(tasks => {
-
       this.board.columns.forEach((c) => {
         c.tasks = tasks.filter(t => t.column === c.name);
       });
